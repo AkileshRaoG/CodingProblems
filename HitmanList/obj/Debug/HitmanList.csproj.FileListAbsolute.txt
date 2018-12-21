@@ -1,6 +1,0 @@
-c:\users\upadha7\documents\visual studio 2015\Projects\HitmanList\HitmanList\bin\Debug\HitmanList.exe.config
-c:\users\upadha7\documents\visual studio 2015\Projects\HitmanList\HitmanList\bin\Debug\HitmanList.exe
-c:\users\upadha7\documents\visual studio 2015\Projects\HitmanList\HitmanList\bin\Debug\HitmanList.pdb
-c:\users\upadha7\documents\visual studio 2015\Projects\HitmanList\HitmanList\obj\Debug\HitmanList.csprojResolveAssemblyReference.cache
-c:\users\upadha7\documents\visual studio 2015\Projects\HitmanList\HitmanList\obj\Debug\HitmanList.exe
-c:\users\upadha7\documents\visual studio 2015\Projects\HitmanList\HitmanList\obj\Debug\HitmanList.pdb
